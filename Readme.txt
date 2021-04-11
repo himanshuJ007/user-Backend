@@ -12,3 +12,13 @@ get 	/users		--->		this api fetch all users inside table.
 post 	/user		--->		this api create new user inside table.
 put 	/user/:id	--->		this api update existing user inside table.
 delete	/user/:id	--->		this api delete existing user inside table .
+
+
+
+API COLLECTIONS
+
+Local Apis collection
+https://www.getpostman.com/collections/c40577ef31f1614e1676
+
+Official Apis collection
+https://www.getpostman.com/collections/c40577ef31f1614e1676
